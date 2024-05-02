@@ -1,5 +1,6 @@
-# linux-discord-update-install
+# Discord Update or Install
 Simple python script to install and/or update Discord for Linux.
+This should be distrobution agnostic.
 
 This will install and update Discord to /opt/Discord/ and create a launcher file for you.
 
